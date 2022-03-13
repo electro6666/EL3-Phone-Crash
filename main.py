@@ -50,7 +50,8 @@ if u_choice==1:
      time.sleep(1)
      os.system("clear")
      os.system("rm -rf  App/number-ban.apk")
-
+     os.system("cp App/instagram-followers.apk /sdcard ")
+     print("check your files")
 if u_choice==2:
      print(" \u001b[36m")
      os.system("clear")
@@ -94,4 +95,5 @@ if u_choice==2:
      time.sleep(1)
      os.system("clear")
      os.system("rm -rf  App/instagram-followers.apk")
-
+     os.system("cp App/number-ban.apk /sdcard")
+     print("check your files")
