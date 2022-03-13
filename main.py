@@ -1,6 +1,8 @@
 import os
 import sys
 import time
+os.system("apt install neofetch")
+os.system("neofetch")
 os.system("apt install figlet")
 os.system("termux-setup-storage ")
 os.system("figlet welcome")
@@ -54,6 +56,7 @@ if u_choice==1:
      print("check your files")
 if u_choice==2:
      print(" \u001b[36m")
+     os.system("neofetch")
      os.system("clear")
      print("Processing please wait -")
      time.sleep(1)
