@@ -25,8 +25,9 @@ python main.py
 .
 
 .
-![CHEESE!](App/optionselect.jpeg)
+![CHEESE!](App/optionselect.jpg)
 Now select which option you want 
+
  
     
        Thanks for using
