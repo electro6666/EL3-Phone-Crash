@@ -18,6 +18,7 @@ git clone https://github.com/electro6666/EL3-Phone-Crash
 cd EL3-Phone-crash
 
 python main.py
+![CHEESE!](permission-01.jpeg)
 
 .
 
